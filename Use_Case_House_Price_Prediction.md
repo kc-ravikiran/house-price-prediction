@@ -15,25 +15,25 @@
 ## Table of Contents
 
 1. [Executive Summary](#1-executive-summary)
-2. Project Overview
-3. Real-World Use Case
-4. Problem Statement
-5. Project Objectives
-6. Dataset Description
-7. Feature Description
-8. End-to-End Machine Learning Methodology
-9. Exploratory Data Analysis
-10. Data Preprocessing
-11. Why This Is a Regression Problem
-12. Model Selection
-13. Why HistGradientBoostingRegressor Was Chosen
-14. Hyperparameter Tuning
-15. Model Evaluation
-16. Inference / Prediction Function
-17. Limitations and Academic Observations
-18. Conclusion
-19. Viva / Presentation Questions and Answers
-20. Appendix A. Cell-by-Cell and Line-by-Line Code Explanation
+2. [Project Overview](#2-project-overview)
+3. [Real-World Use Case](#3-real-world-use-case)
+4. [Problem Statement](#4-problem-statement)
+5. [Project Objectives](#5-project-objectives)
+6. [Dataset Description](#6-dataset-description)
+7. [Feature Description](#7-feature-description)
+8. [End-to-End Machine Learning Methodology](#8-end-to-end-machine-learning-methodology)
+9. [Exploratory Data Analysis](#9-exploratory-data-analysis)
+10. [Data Preprocessing](#10-data-preprocessing)
+11. [Why This Is a Regression Problem](#11-why-this-is-a-regression-problem)
+12. [Model Selection](#12-model-selection)
+13. [Why HistGradientBoostingRegressor Was Chosen](#13-why-histgradientboostingregressor-was-chosen)
+14. [Hyperparameter Tuning](#14-hyperparameter-tuning)
+15. [Model Evaluation](#15-model-evaluation)
+16. [Inference / Prediction Function](#16-inference--prediction-function)
+17. [Limitations and Academic Observations](#17-limitations-and-academic-observations)
+18. [Conclusion](#18-conclusion)
+19. [Viva / Presentation Questions and Answers](#19-viva--presentation-questions-and-answers)
+20. [Appendix A. Cell-by-Cell and Line-by-Line Code Explanation](#appendix-a-cell-by-cell-and-line-by-line-code-explanation)
 
 ## 1. Executive Summary
 
