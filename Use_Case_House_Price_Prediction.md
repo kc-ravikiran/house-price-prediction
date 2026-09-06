@@ -14,7 +14,7 @@
 
 ## Table of Contents
 
-1. Executive Summary
+1. [Executive Summary](#1-executive-summary)
 2. Project Overview
 3. Real-World Use Case
 4. Problem Statement
