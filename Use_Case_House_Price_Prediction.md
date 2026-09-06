@@ -50,7 +50,7 @@ Five regression approaches are compared using 5-fold cross-validation: Linear Re
 After GridSearchCV, the notebook reports a best cross-validation RMSE of approximately 47,327.97. The subsequently trained final model reports test RMSE = 46,957.65, MAE = 30,865.66, and RÂ² = 0.832. This means the
 final model explains approximately 83.2% of the variation in the target on the test set.
 
-An important academic observation is that the GridSearchCV output identifies l2_regularization = 0.0 as the best parameter combination, while the manually reconstructed final pipeline uses l2_regularization =
+An important observation is that the GridSearchCV output identifies l2_regularization = 0.0 as the best parameter combination, while the manually reconstructed final pipeline uses l2_regularization =
 0.1. Therefore, the reported final test metrics belong to the manually reconstructed model rather than an exact reproduction of grid.best_estimator\_. This should be corrected before a formal academic
 submission if exact reproducibility is required.
 
